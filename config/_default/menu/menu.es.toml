@@ -1,0 +1,29 @@
+[[main]]
+  name = "INICIOS"    
+  url = "#hero"
+  weight = 10
+
+[[main]]
+  name = "NOSOTROS"
+  url = "#posts"
+  weight = 20
+  
+[[main]]
+  name = "FORUM"
+  url = "#projects"
+  weight = 30
+
+[[main]]
+  name = "NOTICIAS"
+  url = "#featured"
+  weight = 40
+
+[[main]]
+  name = "ACTIVIDADES "
+  url = "courses/"
+  weight = 50
+
+[[main]]
+  name = "CONTACTO"
+  url = "#contact"
+  weight = 60
