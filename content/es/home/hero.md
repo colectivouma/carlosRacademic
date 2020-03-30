@@ -8,7 +8,7 @@ weight = 10  # Order that this section will appear.
 title = "Centro Cultural"
 
 # Hero image (optional). Enter filename of an image in the `static/img/` folder.
-hero_media = "manifestación.png"  
+hero_media = "manifestación2.png"  
   
 [design.background]
   # Apply a background color, gradient, or image.
@@ -19,9 +19,9 @@ hero_media = "manifestación.png"
   # Background color.
   # color = "navy"
   
-  # Background gradient.
-  gradient_start = "#536878"
-  gradient_end = "#8B8F8C   "
+  # Background gradient. #4bb4e3 end #2b94c3
+    gradient_start = "#536878"
+    gradient_end = "#8B8F8C   "
   
   # Background image.
   # image = ""  # Name of image in `static/img/`.
@@ -51,7 +51,7 @@ hero_media = "manifestación.png"
   label = '<a class="js-github-release" href="https://sourcethemes.com/academic/updates" data-repo="gcushen/hugo-academic">Latest release<!-- V --></a>'
 +++
 
-Desde el arte es educar y transformar una sociedad que sigue en un sistema colonial
+  Es posible educar y transformar una sociedad desde el arte
 
 Hasta la victoria ¡Siempre!
 

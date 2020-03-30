@@ -8,21 +8,25 @@
 [es]
   languageCode = "es-bo"  
   contentDir = "content/es"
-#  title = "Colectivo UMA"
+  title = "Colectivo UMA"
 #  [es.params]
 #    description = "Descripcion del sitio en Castellano..."
   
 [en]
-  languageCode = "en-us"
-  contentDir = "content/en"  # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
+  languageCode = "en-uk"
+  contentDir = "content/en"
+  title = "Collective UMA"
+#  [en.params]
+#      description = "Site description in English ..."
+# Uncomment for multi-lingual sites, and move English content into `en` sub-folder.
 
 [zh]
   languageCode = "zh-Hans"
   contentDir = "content/zh"
-#  title = "Chinese website title..."
+  title = "合作社 UMA"
 #  [zh.params]
 #      description = "Site description in Chinese..."
 #  [[zh.menu.main]]
 #    name = "Wo"
-#    url = "#about"
+#    url = "#about  "
 #    weight = 1

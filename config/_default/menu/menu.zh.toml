@@ -13,7 +13,7 @@
   url = "#projects"
   weight = 30
 
-[[main]]
+[[main]]      
   name = "新闻"
   url = "#featured"
   weight = 40

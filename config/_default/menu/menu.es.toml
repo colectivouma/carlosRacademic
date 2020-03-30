@@ -8,7 +8,7 @@
   url = "#posts"
   weight = 20
   
-[[main]]
+[[main]]  
   name = "FORUM"
   url = "#projects"
   weight = 30
